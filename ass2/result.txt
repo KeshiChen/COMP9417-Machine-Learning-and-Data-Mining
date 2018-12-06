@@ -1,0 +1,41 @@
+Linear unit on MPG dataset:
+Cross-validation score: 0.831042032565821
+
+Boolean function: and
+Noise rate: 0
+Test times: 10
+Average time cost without pocket algorithm: 0.055161646807262876
+Average time cost with pocket algorithm: 8.912982662514247
+Average error rate without pocket algorithm: 0.0
+Average error rate with pocket algorithm: 0.0
+
+Boolean function: and
+Noise rate: 0.1
+Test times: 10
+Average time cost without pocket algorithm: 20.707841961172598
+Average time cost with pocket algorithm: 8.615488889735172
+Average error rate without pocket algorithm: 0.36640625
+Average error rate with pocket algorithm: 0.022265625
+
+Boolean function: and
+Noise rate: 0.3
+Test times: 10
+Average time cost without pocket algorithm: 23.666746569739242
+Average time cost with pocket algorithm: 10.558730098281485
+Average error rate without pocket algorithm: 0.405078125
+Average error rate with pocket algorithm: 0.051953125
+
+Boolean function: and
+Noise rate: 0.5
+Test times: 10
+Average time cost without pocket algorithm: 31.646686067668668
+Average time cost with pocket algorithm: 14.545923709138714
+Average error rate without pocket algorithm: 0.415234375
+Average error rate with pocket algorithm: 0.037109375
+
+Multilayer Perceptron to learn XOR:
+Time cost: 698.7051439101588
+Error rate: 0.0
+
+
+
